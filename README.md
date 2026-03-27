@@ -57,7 +57,7 @@ This project simulates a real-world cybersecurity awareness system where users:
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
+(-----)
 
 Example:
 
@@ -84,5 +84,5 @@ This project is created for educational purposes only. Do not use real personal 
 
 ## 👨‍💻 Author
 
-Kamal Singh Maurya
-Cyber With Kamal 🚀
+##Kamal Singh Maurya
+(Cyber With Kamal)
