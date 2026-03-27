@@ -4,6 +4,10 @@ KAMAL'S WORLD
 A complete web-based cybersecurity training platform designed to educate users about phishing attacks and how to stay safe online.
 
 ---
+## 🌐 Live Website
+
+👉 Click here to open the project:
+🔗 https://your-username.github.io/phishing-awareness-training/
 
 ## 🚀 Project Overview
 
