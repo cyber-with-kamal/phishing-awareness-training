@@ -7,7 +7,7 @@ A complete web-based cybersecurity training platform designed to educate users a
 ## 🌐 Live Website
 
 👉 Click here to open the project:
-🔗 https://your-username.github.io/phishing-awareness-training/
+🔗 https://cyber-with-kamal.github.io/phishing-awareness-training/)
 
 ## 🚀 Project Overview
 
